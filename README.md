@@ -9,3 +9,5 @@ Launcher:
 Anti Cheat:
 
 **Coded By Itz Aqua and Wlst ( not me )**
+
+Join Our Discord https://dsc.gg/daarg
