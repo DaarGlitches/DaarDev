@@ -38,7 +38,7 @@ namespace DaarDev
             this.handlers = default(DiscordRpc.EventHandlers);
             DiscordRpc.Initialize("861250637899628584", ref this.handlers, true, null);
             this.presence.details = "Using DaarDev";
-            this.presence.state = "https://dsc.gg/daargq";
+            this.presence.state = "https://dsc.gg/daarg";
             this.presence.largeImageKey = "daardev";
             this.presence.smallImageKey = "daardev";
             this.presence.largeImageText = "Daar Dev";
@@ -83,7 +83,7 @@ namespace DaarDev
 
         private void guna2Button5_Click(object sender, EventArgs e)
         {
-            Process.Start("https://dsc.lol/daar");
+            Process.Start("https://dsc.gg/daarg");
         }
 
         private void guna2Button7_Click(object sender, EventArgs e)
