@@ -28,7 +28,7 @@ namespace DaarDev
             this.handlers = default(DiscordRpc.EventHandlers);
             DiscordRpc.Initialize("861250637899628584", ref this.handlers, true, null);
             this.presence.details = "Using DaarDev Misc";
-            this.presence.state = "https;//dsc.gg/daar";
+            this.presence.state = "https;//dsc.gg/daarg";
             this.presence.largeImageKey = "daardev";
             this.presence.smallImageKey = "daardev";
             this.presence.largeImageText = "Daar Dev";
